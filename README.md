@@ -36,6 +36,12 @@ To install other dependencies: `pip install -r requirements.txt`
 
 <br>
 
+#### How to run project:
+
+`python manage.py runserver`
+
+<br>
+
 Acess admin panel via `localhost/admin` (if localhost) or `...URL.../admin` (if Heroku)
 
 <br>
