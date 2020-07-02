@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn py-challenge-process-csv.wsgi --log-file -
+web: python manage.py runserver 0.0.0.0:$PORT
