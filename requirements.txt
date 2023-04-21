@@ -2,7 +2,7 @@ autopep8==1.5.3
 Django==2.2.14
 pycodestyle==2.6.0
 pytz==2020.1
-sqlparse==0.3.1
+sqlparse==0.4.4
 toml==0.10.1
 # dj-database-url # only needed for heroku
 # psycopg2 # only needed for heroku
